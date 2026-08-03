@@ -28,3 +28,4 @@
 </a>
 
 </div>
+![My Skills](https://skillicons.dev/icons?i=c,cpp,css,django,flask,git,html,js,linux,matlab,mongodb,mysql,nextjs,nodejs,python,react,tailwind,tensorflow)
