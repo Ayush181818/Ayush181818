@@ -27,5 +27,5 @@
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 
-</div>
-![My Skills](https://skillicons.dev/icons?i=c,cpp,css,django,flask,git,html,js,linux,matlab,mongodb,mysql,nextjs,nodejs,python,react,tailwind,tensorflow)
+### Languages and Tools:
+![My Skills](https://skillicons.dev/icons?i=java,cpp,python,js,react,nodejs,express,mongodb,mysql,html,css,git,fastapi,tailwind)
